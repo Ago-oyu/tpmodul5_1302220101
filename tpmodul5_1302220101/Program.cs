@@ -11,8 +11,10 @@ namespace tpmodul5_1302220101
         static void Main(string[] args)
         {
             String nama = "Yoga Fikri";
-
             HaloGeneric.SapaUser(nama);
+
+            DataGeneric<int> data = new DataGeneric<int>(1302220101);
+            data.PrintData();
         }
     }
 
