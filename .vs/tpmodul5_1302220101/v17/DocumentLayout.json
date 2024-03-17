@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\#Kuliah\\Tel-U\\SEMESTER 4\\Konstruksi Perangkat Lunak\\Praktikum\\Mod 4\\tpmodul5_1302220101\\",
+  "WorkspaceRootPath": "D:\\#Kuliah\\Tel-U\\SEMESTER 4\\Konstruksi Perangkat Lunak\\Praktikum\\Mod 5\\tpmodul5_1302220101\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E61CEB3-19F0-486D-84C6-6F930C1B248C}|tpmodul5_1302220101\\tpmodul5_1302220101.csproj|d:\\#kuliah\\tel-u\\semester 4\\konstruksi perangkat lunak\\praktikum\\mod 4\\tpmodul5_1302220101\\tpmodul5_1302220101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E61CEB3-19F0-486D-84C6-6F930C1B248C}|tpmodul5_1302220101\\tpmodul5_1302220101.csproj|d:\\#kuliah\\tel-u\\semester 4\\konstruksi perangkat lunak\\praktikum\\mod 5\\tpmodul5_1302220101\\tpmodul5_1302220101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E61CEB3-19F0-486D-84C6-6F930C1B248C}|tpmodul5_1302220101\\tpmodul5_1302220101.csproj|solutionrelative:tpmodul5_1302220101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E61CEB3-19F0-486D-84C6-6F930C1B248C}|tpmodul5_1302220101\\tpmodul5_1302220101.csproj|d:\\#kuliah\\tel-u\\semester 4\\konstruksi perangkat lunak\\praktikum\\mod 5\\tpmodul5_1302220101\\tpmodul5_1302220101\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E61CEB3-19F0-486D-84C6-6F930C1B248C}|tpmodul5_1302220101\\tpmodul5_1302220101.csproj|solutionrelative:tpmodul5_1302220101\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HaloGeneric.cs",
+              "DocumentMoniker": "D:\\#Kuliah\\Tel-U\\SEMESTER 4\\Konstruksi Perangkat Lunak\\Praktikum\\Mod 5\\tpmodul5_1302220101\\tpmodul5_1302220101\\HaloGeneric.cs",
+              "RelativeDocumentMoniker": "tpmodul5_1302220101\\HaloGeneric.cs",
+              "ToolTip": "D:\\#Kuliah\\Tel-U\\SEMESTER 4\\Konstruksi Perangkat Lunak\\Praktikum\\Mod 5\\tpmodul5_1302220101\\tpmodul5_1302220101\\HaloGeneric.cs",
+              "RelativeToolTip": "tpmodul5_1302220101\\HaloGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:18:21.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\#Kuliah\\Tel-U\\SEMESTER 4\\Konstruksi Perangkat Lunak\\Praktikum\\Mod 4\\tpmodul5_1302220101\\tpmodul5_1302220101\\Program.cs",
+              "DocumentMoniker": "D:\\#Kuliah\\Tel-U\\SEMESTER 4\\Konstruksi Perangkat Lunak\\Praktikum\\Mod 5\\tpmodul5_1302220101\\tpmodul5_1302220101\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul5_1302220101\\Program.cs",
-              "ToolTip": "D:\\#Kuliah\\Tel-U\\SEMESTER 4\\Konstruksi Perangkat Lunak\\Praktikum\\Mod 4\\tpmodul5_1302220101\\tpmodul5_1302220101\\Program.cs",
+              "ToolTip": "D:\\#Kuliah\\Tel-U\\SEMESTER 4\\Konstruksi Perangkat Lunak\\Praktikum\\Mod 5\\tpmodul5_1302220101\\tpmodul5_1302220101\\Program.cs",
               "RelativeToolTip": "tpmodul5_1302220101\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T07:53:08.692Z",
               "EditorCaption": ""
