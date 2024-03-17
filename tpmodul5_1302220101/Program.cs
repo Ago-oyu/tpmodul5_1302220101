@@ -1,2 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace tpmodul5_1302220101
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            DataGeneric<int> data = new DataGeneric<int>(1302220101);
+            data.PrintData();
+        }
+    }
+
+}
